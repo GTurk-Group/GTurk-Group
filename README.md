@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GTurk-Group
 - 👀 I’m interested in gaming, music, movies, programming
-- 🌱 I’m currently WORKING with MONGODB, EXPRESSJS, REACT, NODEJS, 
+- 🌱 I’m currently WORKING with MONGODB, EXPRESSJS, REACT, NODEJS, NEXTJS, GRAPHQL 
 - 💞️ I’m looking to collaborate on startup jobs, and ready to pickup any job offer which will help me build my career.
 - 📫 How to reach me email: evanseboturkson@gmail.com, Tel: +233 244 113 481
 
