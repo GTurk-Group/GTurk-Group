@@ -4,12 +4,11 @@
 - 💞️ I’m looking to collaborate on startup jobs, and ready to pickup any job offer which will help me build my career.
 - 📫 How to reach me email: evanseboturkson@gmail.com, Tel: +233 244 113 481.
  
-Completed Projects: 
-         ✔ Eyram Writes 
+Completed Projects:
+       -  ✔ Eyram Writes 
             [Blog website developed from scratch with Reactjs, Redux Toolkit, Expressjs, MongoDB, Nodejs]. 
-            It is deployed on Vercel [Nextjs cloud hosting platform].
-          
-         ✔ Weather app built with Reactjs and Axios with API from [Open Weather] [https://www.weather-app-theta-sage.vercel.app].
+            It is deployed on Vercel [Nextjs cloud hosting platform].       
+       -  ✔ Weather app built with Reactjs and Axios with API from [Open Weather] [https://www.weather-app-theta-sage.vercel.app].
 
 
 <!---
