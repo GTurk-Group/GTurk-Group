@@ -8,7 +8,7 @@
 Completed Projects:
 - ✔ Eyram Writes 
   [Blog website developed from scratch with Reactjs, Redux Toolkit, Expressjs, MongoDB, Nodejs]. 
-  It is deployed on Vercel [Nextjs cloud hosting platform].       
+  It is deployed on Vercel [Nextjs cloud hosting platform] [https://www.eyramsam.com].       
 - ✔ Weather app built with Reactjs and Axios with API from [Open Weather] [https://www.weather-app-theta-sage.vercel.app].
 
 
